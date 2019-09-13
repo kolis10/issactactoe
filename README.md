@@ -1,2 +1,0 @@
-# issactactoe
-Created with CodeSandbox

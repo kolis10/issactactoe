@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+}
+.Row{
+  height: 50px;
+  width: 150px;
+  display: flex;
+  flex-direction: row;
+  border-bottom: solid 1px black;
+  border-top: solid 1px black;
+}
+.Cell{
+  height: 50px;
+  width: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-right: solid 1px black;
+  border-left: solid 1px black;
+}
